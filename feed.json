@@ -1,0 +1,1324 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "My Bobiverse",
+	"icon": "https://micro.blog/bobiverse/avatar.jpg",
+	"home_page_url": "https://bobsica.com/",
+	"feed_url": "https://bobsica.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://bobiverse.micro.blog/2023/01/18/want-an-automatic.html",
+				
+				"content_html": "<p>Want an automatic dark mode for you blog but are unsure how? <a href=\"https://micro.blog/yorrike\">@yorrike</a> <a href=\"https://yorrike.com/2019/11/11/how-to-add.html\">has an easy to follow howto</a> for you. It works great, thank you! Found it in the very useful <a href=\"http://Custom.micro.blog/\">Custom.micro.blog</a> tutorials.</p>\n",
+				"content_text": "Want an automatic dark mode for you blog but are unsure how? [@yorrike](https://micro.blog/yorrike) [has an easy to follow howto](https://yorrike.com/2019/11/11/how-to-add.html) for you. It works great, thank you! Found it in the very useful [Custom.micro.blog](http://Custom.micro.blog/) tutorials.\n",
+				"date_published": "2023-01-18T19:00:46-05:00",
+				"url": "https://bobsica.com/2023/01/18/want-an-automatic.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2023/01/18/laserguided-lighning-demonstrated.html",
+				"title": "Laser-guided Lightning Demonstrated",
+				"content_html": "<p>Using a laser to guide lightning has been demonstrated! A Swiss group used a high power, high repitition rate laser to guide lighning down a laser beam. The application here would be to use lasers to steer lightning away from damaging structures.</p>\n<p>Briefly what happens is as follows. A large electric potential develops between a cloud and the ground, which can lead to lightning. What we see as lightning is the <em>return current</em> from the cloud to the ground. But before the flash the cloud has to, figuratively, drop a wire down to the ground for the current to flow through. It does this by ionizing a channel through the air. This feature is called a dart leader, and it takes a jagged path to the surface. What the Swiss group was able to do was make an ionized path to the ground using the laser, which the lightning followed. IMHO pretty amazing work.</p>\n<p><a href=\"https://www.washingtonpost.com/science/2023/01/16/laser-lightning-rod/\">Popular Article in the Washington Post here.</a> Inside that article is a link to the Nature Photonics paper if you want the details.</p>\n<p>🌞 🌩️ 🚀</p>\n",
+				"content_text": "Using a laser to guide lightning has been demonstrated! A Swiss group used a high power, high repitition rate laser to guide lighning down a laser beam. The application here would be to use lasers to steer lightning away from damaging structures. \n\nBriefly what happens is as follows. A large electric potential develops between a cloud and the ground, which can lead to lightning. What we see as lightning is the _return current_ from the cloud to the ground. But before the flash the cloud has to, figuratively, drop a wire down to the ground for the current to flow through. It does this by ionizing a channel through the air. This feature is called a dart leader, and it takes a jagged path to the surface. What the Swiss group was able to do was make an ionized path to the ground using the laser, which the lightning followed. IMHO pretty amazing work.\n\n[Popular Article in the Washington Post here.](https://www.washingtonpost.com/science/2023/01/16/laser-lightning-rod/) Inside that article is a link to the Nature Photonics paper if you want the details.\n\n🌞 🌩️ 🚀\n",
+				"date_published": "2023-01-18T13:34:00-05:00",
+				"url": "https://bobsica.com/2023/01/18/laserguided-lighning-demonstrated.html",
+				"tags": ["science"]
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2023/01/17/aaronpk-hopefully-i.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->aaronpk<!-- raw HTML omitted -->. Hopefully I got this Webmention syntax figured out now.</p>\n",
+				"content_text": "<a class=\"u-in-reply-to\" href=\"https://aaronparecki.com/2018/06/30/11/your-first-webmention\">aaronpk</a>. Hopefully I got this Webmention syntax figured out now.\n",
+				"date_published": "2023-01-17T15:47:29-05:00",
+				"url": "https://bobsica.com/2023/01/17/aaronpk-hopefully-i.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2023/01/15/older-posts-past.html",
+				"title": "Some Photos to enjoy in my Archive",
+				"content_html": "<p>I was wondering how I could best introduce myself to the micro.blog community and maybe my old pictures are a good window to some aspects of my Bobiverse. Older posts in the Archive are mostly photos I took and put on Instagram between 2014-2018. Haven&rsquo;t really used any social media platforms since then, but I&rsquo;m giving micro.blog a shot. Most of the 2014-2015 pictures are from our stay in Switzerland during my sabbatical, a great opportunity I had to work with colleagues at Meteoswiss. Hope you enjoy them.</p>\n<p>I debated putting some of my older blog posts here but decided you can go to the About page and link to them if you are interested.</p>\n",
+				"content_text": "I was wondering how I could best introduce myself to the micro.blog community and maybe my old pictures are a good window to some aspects of my Bobiverse. Older posts in the Archive are mostly photos I took and put on Instagram between 2014-2018. Haven't really used any social media platforms since then, but I'm giving micro.blog a shot. Most of the 2014-2015 pictures are from our stay in Switzerland during my sabbatical, a great opportunity I had to work with colleagues at Meteoswiss. Hope you enjoy them. \n\nI debated putting some of my older blog posts here but decided you can go to the About page and link to them if you are interested.\n\n",
+				"date_published": "2023-01-15T19:53:05-05:00",
+				"url": "https://bobsica.com/2023/01/15/older-posts-past.html",
+				"tags": ["bob"]
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2018/02/22/giant-ochre-sea.html",
+				
+				"content_html": "<p>giant ochre sea star</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "giant ochre sea star\n\n<img src=\"uploads/2023/f3ac87ea85.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2018-02-22T21:56:53-05:00",
+				"url": "https://bobsica.com/2018/02/22/giant-ochre-sea.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/10/08/madame.html",
+				
+				"content_html": "<p>#madame</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#madame\n\n<img src=\"uploads/2023/905b0a357e.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-10-08T18:11:57-05:00",
+				"url": "https://bobsica.com/2017/10/08/madame.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/08/25/cheysunset-we-had.html",
+				
+				"content_html": "<p>cheysunset we had some good looks at them as well. Hope they stop soon #bcfires</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "cheysunset we had some good looks at them as well. Hope they stop soon #bcfires\n\n<img src=\"uploads/2023/8b6fc3b45f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-08-25T15:14:09-05:00",
+				"url": "https://bobsica.com/2017/08/25/cheysunset-we-had.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/08/13/pat-bob-reflecting.html",
+				
+				"content_html": "<p>#pat &amp; #bob reflecting</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#pat & #bob reflecting\n\n<img src=\"uploads/2023/1410210e98.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-08-13T17:42:56-05:00",
+				"url": "https://bobsica.com/2017/08/13/pat-bob-reflecting.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/07/08/shut-up-legs.html",
+				
+				"content_html": "<p>Shut up legs! Jens took the time to come across the barriers to us for photos. Thanks man! Also kudos to Emmanuel for VIP passes to Ã©tape 5 @ tdf2017</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Shut up legs! Jens took the time to come across the barriers to us for photos. Thanks man! Also kudos to Emmanuel for VIP passes to Ã©tape 5 @ tdf2017\n\n<img src=\"uploads/2023/8abe90c22a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-07-08T18:49:31-05:00",
+				"url": "https://bobsica.com/2017/07/08/shut-up-legs.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/06/17/moon-over-collge.html",
+				
+				"content_html": "<p>Moon over CollÃ¨ge St.-Michel #fribourg #suisse #suisseromand</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Moon over CollÃ¨ge St.-Michel #fribourg #suisse #suisseromand\n\n<img src=\"uploads/2023/7e7a6c00ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-06-17T04:42:35-05:00",
+				"url": "https://bobsica.com/2017/06/17/moon-over-collge.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/06/16/happy-bloomsday.html",
+				
+				"content_html": "<p>Happy Bloomsday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Bloomsday.\n\n<img src=\"uploads/2023/e23bb93d6d.jpg\" width=\"600\" height=\"331\" alt=\"\">\n",
+				"date_published": "2017-06-16T02:21:50-05:00",
+				"url": "https://bobsica.com/2017/06/16/happy-bloomsday.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/06/03/always-worth-it.html",
+				
+				"content_html": "<p>Always worth it to get out the door early, surtout en suisse ð¨ð­ #arc-en-ciel #rainbow #cycling</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Always worth it to get out the door early, surtout en suisse ð¨ð­ #arc-en-ciel #rainbow #cycling\n\n<img src=\"uploads/2023/7c7e5e1923.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-06-03T10:51:54-05:00",
+				"url": "https://bobsica.com/2017/06/03/always-worth-it.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/05/18/clouds.html",
+				
+				"content_html": "<p>#clouds</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#clouds\n\n<img src=\"uploads/2023/8094ad5867.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-05-18T11:10:32-05:00",
+				"url": "https://bobsica.com/2017/05/18/clouds.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/04/26/the-david-jackson.html",
+				
+				"content_html": "<p>The David Jackson memorial tree is now complete with the arrival of the permanent commemorative marker! Go have a look! @physicsandastronomyatwestern @westernuniversity @purplecrowlidar</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The David Jackson memorial tree is now complete with the arrival of the permanent commemorative marker! Go have a look! @physicsandastronomyatwestern @westernuniversity @purplecrowlidar\n\n<img src=\"uploads/2023/e51da96167.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-04-26T08:09:33-05:00",
+				"url": "https://bobsica.com/2017/04/26/the-david-jackson.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/02/23/woman-lake-erie.html",
+				
+				"content_html": "<p>Woman, Lake Erie and #iceFlows. #LongPoint #ontario</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Woman, Lake Erie and #iceFlows. #LongPoint #ontario\n\n<img src=\"uploads/2023/559429fb89.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-02-23T20:55:09-05:00",
+				"url": "https://bobsica.com/2017/02/23/woman-lake-erie.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/02/20/or-your-honour.html",
+				
+				"content_html": "<p>Or your Honour Student. #ldnont #starwars</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Or your Honour Student. #ldnont #starwars\n\n<img src=\"uploads/2023/8f71e62bbd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-02-20T16:04:26-05:00",
+				"url": "https://bobsica.com/2017/02/20/or-your-honour.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2017/02/17/goodnight-westernuniversity-ldnont.html",
+				
+				"content_html": "<p>Goodnight @westernuniversity #ldnont #westernu</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Goodnight @westernuniversity #ldnont #westernu\n\n<img src=\"uploads/2023/f2f9df80f9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2017-02-17T18:10:20-05:00",
+				"url": "https://bobsica.com/2017/02/17/goodnight-westernuniversity-ldnont.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/10/13/so-welcoming-failedbizplan.html",
+				
+				"content_html": "<p>So welcoming #failedBizPlan</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So welcoming #failedBizPlan\n\n<img src=\"uploads/2023/87744560ac.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-10-13T19:54:42-05:00",
+				"url": "https://bobsica.com/2016/10/13/so-welcoming-failedbizplan.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/10/11/my-wife-puts.html",
+				
+				"content_html": "<p>My wife puts things in trees. In our yard. #creepy</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My wife puts things in trees. In our yard. #creepy\n\n<img src=\"uploads/2023/5dd7bd8d5c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-10-11T19:07:56-05:00",
+				"url": "https://bobsica.com/2016/10/11/my-wife-puts.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/10/10/leaf-on-table.html",
+				
+				"content_html": "<p>Leaf on table</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Leaf on table\n\n<img src=\"uploads/2023/3141fcaf8b.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-10-10T14:06:19-05:00",
+				"url": "https://bobsica.com/2016/10/10/leaf-on-table.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/06/12/retrofemme-murten-bitcam.html",
+				
+				"content_html": "<p>Retro-femme #murten #bitcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Retro-femme #murten #bitcam\n\n<img src=\"uploads/2023/031482e0fe.jpg\" width=\"513\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-06-12T08:23:23-05:00",
+				"url": "https://bobsica.com/2016/06/12/retrofemme-murten-bitcam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/05/15/woman-by-lake.html",
+				
+				"content_html": "<p>#woman by lake at sunset</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman by lake at sunset\n\n<img src=\"uploads/2023/eb52679854.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-05-15T20:54:44-05:00",
+				"url": "https://bobsica.com/2016/05/15/woman-by-lake.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/05/07/strawberryfieldsforever.html",
+				
+				"content_html": "<p>&laquo;No one, I think, is in my tree\nI mean, it must be high or low\nThat is, you can&rsquo;t, you know, tune in, but it&rsquo;s alright\nThat is, I think it&rsquo;s not too bad&raquo; #strawberryFieldsForever</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<<No one, I think, is in my tree\nI mean, it must be high or low\nThat is, you can't, you know, tune in, but it's alright\nThat is, I think it's not too bad>> #strawberryFieldsForever\n\n<img src=\"uploads/2023/9163a79363.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2016-05-07T16:04:04-05:00",
+				"url": "https://bobsica.com/2016/05/07/strawberryfieldsforever.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2016/04/28/red-sky-at.html",
+				
+				"content_html": "<p>&ldquo;red sky at morning, sailor take warning&rdquo; #ldnont</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"red sky at morning, sailor take warning\" #ldnont\n\n<img src=\"uploads/2023/a6e27bae8c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2016-04-28T17:37:30-05:00",
+				"url": "https://bobsica.com/2016/04/28/red-sky-at.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/11/22/lhiver-est-arriv.html",
+				
+				"content_html": "<p>L&rsquo;hiver est arrivÃ© en #LonOnt</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "L'hiver est arrivÃ© en #LonOnt\n\n<img src=\"uploads/2023/01c3202fa1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-11-22T14:31:32-05:00",
+				"url": "https://bobsica.com/2015/11/22/lhiver-est-arriv.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/10/04/summer-hangs-on.html",
+				
+				"content_html": "<p>Summer hangs on in the #YXU woods</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Summer hangs on in the #YXU woods\n\n<img src=\"uploads/2023/a2547da938.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-10-04T12:49:50-05:00",
+				"url": "https://bobsica.com/2015/10/04/summer-hangs-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/10/03/count-em-proof.html",
+				
+				"content_html": "<p>Count &lsquo;em. 1-5-1 proof #wildTurkey #londont</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Count 'em. 1-5-1 proof #wildTurkey #londont\n\n<img src=\"uploads/2023/5e1cdd522c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-10-03T16:42:43-05:00",
+				"url": "https://bobsica.com/2015/10/03/count-em-proof.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/06/19/tourdesuisse-mtosuisse-aujourdhui.html",
+				
+				"content_html": "<p>#tourdesuisse @ #MÃ©tÃ©oSuisse aujourd&rsquo;hui. Merci beaucoup Ã  le #peloton pour les bidons!#VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#tourdesuisse @ #MÃ©tÃ©oSuisse aujourd'hui. Merci beaucoup Ã  le #peloton pour les bidons!#VSCOcam\n\n<img src=\"uploads/2023/c97893b54b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-06-19T08:58:22-05:00",
+				"url": "https://bobsica.com/2015/06/19/tourdesuisse-mtosuisse-aujourdhui.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/06/13/femme-en-route.html",
+				
+				"content_html": "<p>#femme en #route #Cudrefin #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#femme en #route #Cudrefin #suisse #VSCOcam\n\n<img src=\"uploads/2023/0a4fbd9103.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-06-13T15:49:18-05:00",
+				"url": "https://bobsica.com/2015/06/13/femme-en-route.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/06/05/femme-et-chapeau.html",
+				
+				"content_html": "<p>#femme et #chapeau #LeJardinAuxBetteraves #fribourg #VSCOcam #paraChapeau ?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#femme et #chapeau #LeJardinAuxBetteraves #fribourg #VSCOcam #paraChapeau ?\n\n<img src=\"uploads/2023/bdb01e3a57.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-06-05T10:46:15-05:00",
+				"url": "https://bobsica.com/2015/06/05/femme-et-chapeau.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/05/23/going-up-to.html",
+				
+				"content_html": "<p>Going up to the #Alps this #weekend? Stop at #MahuSports on the way! #Plaffeien #Schweiz #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Going up to the #Alps this #weekend? Stop at #MahuSports on the way! #Plaffeien #Schweiz #VSCOcam\n\n<img src=\"uploads/2023/a60f7e60c0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-05-23T02:47:45-05:00",
+				"url": "https://bobsica.com/2015/05/23/going-up-to.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/05/01/le-peloton-could.html",
+				
+				"content_html": "<p>Le #peloton could not catch #suisse Stefan KÃ¼ng as they ride under la flamme rouge and to the finish on Blvd de PÃ©rolles. #Fribourg  #tdr2015 #Ã©tape4 #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Le #peloton could not catch #suisse Stefan KÃ¼ng as they ride under la flamme rouge and to the finish on Blvd de PÃ©rolles. #Fribourg  #tdr2015 #Ã©tape4 #VSCOcam\n\n<img src=\"uploads/2023/745baddcb0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-05-01T11:52:10-05:00",
+				"url": "https://bobsica.com/2015/05/01/le-peloton-could.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/04/26/aujourdhui-lbl-belge.html",
+				
+				"content_html": "<p>Aujourd&rsquo;hui @ #lbl #belge #liege #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Aujourd'hui @ #lbl #belge #liege #VSCOcam\n\n<img src=\"uploads/2023/684819b953.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-04-26T03:00:11-05:00",
+				"url": "https://bobsica.com/2015/04/26/aujourdhui-lbl-belge.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/04/07/dawn-at-the.html",
+				
+				"content_html": "<p>#dawn at the #weighRoom.  #inspiring and #perspiring. #Fribourg #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#dawn at the #weighRoom.  #inspiring and #perspiring. #Fribourg #VSCOcam\n\n<img src=\"uploads/2023/5396d2f0ab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-04-07T04:24:50-05:00",
+				"url": "https://bobsica.com/2015/04/07/dawn-at-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/04/06/lemolson-painted-in.html",
+				
+				"content_html": "<p>#LeMolÃ©son, painted in white yesterday, reappears to welcome all on a #cool #spring day #ride. #cycling #Fribourg #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#LeMolÃ©son, painted in white yesterday, reappears to welcome all on a #cool #spring day #ride. #cycling #Fribourg #suisse #VSCOcam\n\n<img src=\"uploads/2023/e4960f352b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-04-06T09:01:20-05:00",
+				"url": "https://bobsica.com/2015/04/06/lemolson-painted-in.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/03/30/stranger-herehead-on.html",
+				
+				"content_html": "<p>&ldquo;Stranger here\nHead on the pillow floating by\nWillows sigh&rdquo;\n#cowboyJunkies #canada #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Stranger here\nHead on the pillow floating by\nWillows sigh\"\n#cowboyJunkies #canada #suisse #VSCOcam\n\n<img src=\"uploads/2023/448c725af8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-03-30T11:14:13-05:00",
+				"url": "https://bobsica.com/2015/03/30/stranger-herehead-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/03/22/jscht-emerald-sensler.html",
+				
+				"content_html": "<p>#JÃ¹scht #Emerald: #Sensler #beer with #HeavyMetal. Rock on #MahuSports! #Plaffeien #Schweiz #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#JÃ¹scht #Emerald: #Sensler #beer with #HeavyMetal. Rock on #MahuSports! #Plaffeien #Schweiz #VSCOcam\n\n<img src=\"uploads/2023/b4ed03740a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-03-22T04:13:59-05:00",
+				"url": "https://bobsica.com/2015/03/22/jscht-emerald-sensler.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/03/20/solar-eclipse-no.html",
+				
+				"content_html": "<p>70% #solar #eclipse No #rioting observed among the #locals ;-) #payerne #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "70% #solar #eclipse No #rioting observed among the #locals ;-) #payerne #suisse #VSCOcam\n\n<img src=\"uploads/2023/888407b393.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-03-20T05:03:34-05:00",
+				"url": "https://bobsica.com/2015/03/20/solar-eclipse-no.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/03/08/mountain-window-in.html",
+				
+				"content_html": "<p>#mountain #window in the #Gastlosen #ski #randonnee #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#mountain #window in the #Gastlosen #ski #randonnee #suisse #VSCOcam\n\n<img src=\"uploads/2023/558a525e87.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-03-08T08:21:29-05:00",
+				"url": "https://bobsica.com/2015/03/08/mountain-window-in.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/02/20/goodbye-fog-hello.html",
+				
+				"content_html": "<p>#goodbye #fog, #hello #sun in the #Berner #Oberland #schweiz #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#goodbye #fog, #hello #sun in the #Berner #Oberland #schweiz #VSCOcam\n\n<img src=\"uploads/2023/81ef5da5e6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-02-20T13:48:17-05:00",
+				"url": "https://bobsica.com/2015/02/20/goodbye-fog-hello.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/02/15/la-femme-et.html",
+				
+				"content_html": "<p>la #femme et ses #raquette Ã  #neige.  #lacNoir #fribourg #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "la #femme et ses #raquette Ã  #neige.  #lacNoir #fribourg #suisse #VSCOcam\n\n<img src=\"uploads/2023/9714264178.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-02-15T15:51:52-05:00",
+				"url": "https://bobsica.com/2015/02/15/la-femme-et.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/02/14/ski-tour-above.html",
+				
+				"content_html": "<p>#Ski tour above #Jaun. Saw my first #Grossmutterloch (#mountain window, #sunlight through the &ldquo;middle&rdquo; of a mountain) . Should have snapped a picture. #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Ski tour above #Jaun. Saw my first #Grossmutterloch (#mountain window, #sunlight through the \"middle\" of a mountain) . Should have snapped a picture. #suisse #VSCOcam\n\n<img src=\"uploads/2023/b79a23089b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-02-14T11:25:52-05:00",
+				"url": "https://bobsica.com/2015/02/14/ski-tour-above.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/02/09/in-the-fribourg.html",
+				
+				"content_html": "<p>In the #1700 #fribourg #homies #tagged my ride. Awesome job but not the windows next time, let the sunshine in. #WordUp #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In the #1700 #fribourg #homies #tagged my ride. Awesome job but not the windows next time, let the sunshine in. #WordUp #suisse #VSCOcam\n\n<img src=\"uploads/2023/eda79c4684.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-02-09T12:32:34-05:00",
+				"url": "https://bobsica.com/2015/02/09/in-the-fribourg.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/02/08/lafemme-jaun-to.html",
+				
+				"content_html": "<p>#LaFemme #Jaun to #Charmey #SchwyzerdÃ¼tsch to #Romandie #all #suisse #snowshoe #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#LaFemme #Jaun to #Charmey #SchwyzerdÃ¼tsch to #Romandie #all #suisse #snowshoe #VSCOcam\n\n<img src=\"uploads/2023/81fa8242fa.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-02-08T13:23:57-05:00",
+				"url": "https://bobsica.com/2015/02/08/lafemme-jaun-to.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/01/18/ski-de-fond.html",
+				
+				"content_html": "<p>#Ski de #fond Ã  Lac Noir. #Winter at last! #Suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Ski de #fond Ã  Lac Noir. #Winter at last! #Suisse #VSCOcam\n\n<img src=\"uploads/2023/f610deca98.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-01-18T10:05:38-05:00",
+				"url": "https://bobsica.com/2015/01/18/ski-de-fond.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/01/10/gisant-de-saint.html",
+				
+				"content_html": "<p>#Gisant de #saint FÃ©lix #Inconnu 1755 #Tafers Note &ldquo;Du #Sang de S FÃ©lix&rdquo; #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Gisant de #saint FÃ©lix #Inconnu 1755 #Tafers Note \"Du #Sang de S FÃ©lix\" #VSCOcam\n\n<img src=\"uploads/2023/c3d0df13e4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-01-10T09:24:25-05:00",
+				"url": "https://bobsica.com/2015/01/10/gisant-de-saint.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2015/01/06/in-the-morning.html",
+				
+				"content_html": "<p>In the #morning #fog #payerne #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In the #morning #fog #payerne #suisse #VSCOcam\n\n<img src=\"uploads/2023/bd64e2befd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2015-01-06T02:34:27-05:00",
+				"url": "https://bobsica.com/2015/01/06/in-the-morning.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/12/26/boxing-day-on.html",
+				
+				"content_html": "<p>#boxing #day on #Lac de #PÃ©rolles #fribourg #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#boxing #day on #Lac de #PÃ©rolles #fribourg #suisse #VSCOcam\n\n<img src=\"uploads/2023/86e7920e18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-12-26T09:32:38-05:00",
+				"url": "https://bobsica.com/2014/12/26/boxing-day-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/12/07/the-moss-forest.html",
+				
+				"content_html": "<p>The #moss #forest above #Jaun in the #fog #schweiz #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The #moss #forest above #Jaun in the #fog #schweiz #VSCOcam\n\n<img src=\"uploads/2023/da564d003a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-12-07T11:19:40-05:00",
+				"url": "https://bobsica.com/2014/12/07/the-moss-forest.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/12/06/bon-chance-for.html",
+				
+				"content_html": "<p>Bon chance for 2015? I caught a #gingerbread thrown by St #Nicolas at the #Appearance of St Nicolas #fribourg #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bon chance for 2015? I caught a #gingerbread thrown by St #Nicolas at the #Appearance of St Nicolas #fribourg #suisse #VSCOcam\n\n<img src=\"uploads/2023/fe344e88a3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-12-06T15:18:07-05:00",
+				"url": "https://bobsica.com/2014/12/06/bon-chance-for.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/12/01/la-reine-at.html",
+				
+				"content_html": "<p>La #reine at #Chateau #Grandson #vaud #suisse</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "La #reine at #Chateau #Grandson #vaud #suisse\n\n<img src=\"uploads/2023/4d1699f7da.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-12-01T13:45:41-05:00",
+				"url": "https://bobsica.com/2014/12/01/la-reine-at.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/11/30/great-hiking-weekend.html",
+				
+				"content_html": "<p>Great #hiking #weekend in the #BernerOberland  once you got above the #fog engulfing #western #switzerland #Innertkirchen #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Great #hiking #weekend in the #BernerOberland  once you got above the #fog engulfing #western #switzerland #Innertkirchen #VSCOcam\n\n<img src=\"uploads/2023/f18afb54c6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-11-30T14:09:31-05:00",
+				"url": "https://bobsica.com/2014/11/30/great-hiking-weekend.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/11/16/sunday-ride-on.html",
+				
+				"content_html": "<p>#Sunday #ride on a beautiful #autumn #morning #Passelb #suisse #VSCOcam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Sunday #ride on a beautiful #autumn #morning #Passelb #suisse #VSCOcam\n\n<img src=\"uploads/2023/88a7bf8e00.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-11-16T08:12:25-05:00",
+				"url": "https://bobsica.com/2014/11/16/sunday-ride-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/11/01/moonrise-finale-to.html",
+				
+				"content_html": "<p>#moonrise #finale to a #Fall #hike @ #Schwarzsee #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#moonrise #finale to a #Fall #hike @ #Schwarzsee #vscocam\n\n<img src=\"uploads/2023/986a7e8454.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-11-01T13:38:04-05:00",
+				"url": "https://bobsica.com/2014/11/01/moonrise-finale-to.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/25/fall-hike-past.html",
+				
+				"content_html": "<p>#fall #hike past 2 #glaciers the #Fieschergletscher and the #Aletschgletcher. Much of #trail had. several cm of #fresh #snow from last week&rsquo;s #storm. #Suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#fall #hike past 2 #glaciers the #Fieschergletscher and the #Aletschgletcher. Much of #trail had. several cm of #fresh #snow from last week's #storm. #Suisse #vscocam\n\n<img src=\"uploads/2023/a367de2d49.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-25T12:14:16-05:00",
+				"url": "https://bobsica.com/2014/10/25/fall-hike-past.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/19/woman-passes-time.html",
+				
+				"content_html": "<p>#woman passes #time #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman passes #time #vscocam\n\n<img src=\"uploads/2023/c8a0ae7a70.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-19T10:54:56-05:00",
+				"url": "https://bobsica.com/2014/10/19/woman-passes-time.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/18/gnight-seattle-vscocam.html",
+				
+				"content_html": "<p>g&rsquo;night #Seattle !#vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "g'night #Seattle !#vscocam\n\n<img src=\"uploads/2023/b1bfe11368.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-18T14:56:26-05:00",
+				"url": "https://bobsica.com/2014/10/18/gnight-seattle-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/17/fun-at-the.html",
+				
+				"content_html": "<p>#fun at the #space #needle #Seattle #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#fun at the #space #needle #Seattle #vscocam\n\n<img src=\"uploads/2023/2e0f79bc33.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-17T18:22:58-05:00",
+				"url": "https://bobsica.com/2014/10/17/fun-at-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/13/css-ve-getting.html",
+				
+				"content_html": "<p>#css &amp; #VE getting #outThere en #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#css & #VE getting #outThere en #suisse #vscocam\n\n<img src=\"uploads/2023/e6198ae2ef.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-13T13:52:18-05:00",
+				"url": "https://bobsica.com/2014/10/13/css-ve-getting.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/12/lenticular-cloud-bernese.html",
+				
+				"content_html": "<p>#lenticular #cloud #bernese #overland #gravity #waves #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#lenticular #cloud #bernese #overland #gravity #waves #vscocam\n\n<img src=\"uploads/2023/85c87614a7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-12T13:10:02-05:00",
+				"url": "https://bobsica.com/2014/10/12/lenticular-cloud-bernese.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/11/opening-of-the.html",
+				
+				"content_html": "<p>#opening of the Pont #Poya #fribourg More important #Zaeringen #brucke for #bikes now! #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#opening of the Pont #Poya #fribourg More important #Zaeringen #brucke for #bikes now! #vscocam\n\n<img src=\"uploads/2023/4013a66aff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-11T14:02:48-05:00",
+				"url": "https://bobsica.com/2014/10/11/opening-of-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/09/morning-moon-rise.html",
+				
+				"content_html": "<p>#morning #moon #rise #rushing for the #8:03 #fribourg #hayden &ldquo;I will skate. as long as it takesâ¦&rdquo; #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#morning #moon #rise #rushing for the #8:03 #fribourg #hayden \"I will skate. as long as it takesâ¦\" #vscocam\n\n<img src=\"uploads/2023/1c5836c87e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-09T01:25:30-05:00",
+				"url": "https://bobsica.com/2014/10/09/morning-moon-rise.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/10/04/chicken-rooster-fowl.html",
+				
+				"content_html": "<p>#chicken #rooster #fowl #poulet #rhymes with #rock s a t u r d a y nite in #fribourg ok going to post this and move on with my #life #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#chicken #rooster #fowl #poulet #rhymes with #rock s a t u r d a y nite in #fribourg ok going to post this and move on with my #life #vscocam\n\n<img src=\"uploads/2023/a99cc5cc8f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-10-04T14:36:34-05:00",
+				"url": "https://bobsica.com/2014/10/04/chicken-rooster-fowl.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/30/la-chasse-aux.html",
+				
+				"content_html": "<p>la #chasse aux #chats #animals #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "la #chasse aux #chats #animals #payerne #vscocam\n\n<img src=\"uploads/2023/3a9da3074c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-30T11:09:23-05:00",
+				"url": "https://bobsica.com/2014/09/30/la-chasse-aux.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/28/hiking-on-a.html",
+				
+				"content_html": "<p>#hiking on a #beautiful #sunny #Sunday in the #magic #valley  #lÃ¶tschental #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#hiking on a #beautiful #sunny #Sunday in the #magic #valley  #lÃ¶tschental #vscocam\n\n<img src=\"uploads/2023/2b8eb42b9f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-28T12:42:21-05:00",
+				"url": "https://bobsica.com/2014/09/28/hiking-on-a.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/25/can-always-make.html",
+				
+				"content_html": "<p>can always make room in the #OutThere #pack for #raclette #sciboz #cheese safely inside #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "can always make room in the #OutThere #pack for #raclette #sciboz #cheese safely inside #fribourg #vscocam\n\n<img src=\"uploads/2023/69ba896107.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-25T12:05:55-05:00",
+				"url": "https://bobsica.com/2014/09/25/can-always-make.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/23/from-the-collection.html",
+				
+				"content_html": "<p>from the #collection of #vintage #meteorological #instruments @ MeteoSwiss These were used for tracking #weather #balloons, now done by #GPS #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "from the #collection of #vintage #meteorological #instruments @ MeteoSwiss These were used for tracking #weather #balloons, now done by #GPS #vscocam\n\n<img src=\"uploads/2023/044b717f44.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-23T03:26:58-05:00",
+				"url": "https://bobsica.com/2014/09/23/from-the-collection.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/18/shutuplegs-jensvoigt-through.html",
+				
+				"content_html": "<p>#ShutUpLegs #JensVoigt through 5 km at 50.5 kph. Looks like he is just doing an ez warm down.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#ShutUpLegs #JensVoigt through 5 km at 50.5 kph. Looks like he is just doing an ez warm down.\n\n<img src=\"uploads/2023/db6e5a1b68.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-18T12:07:59-05:00",
+				"url": "https://bobsica.com/2014/09/18/shutuplegs-jensvoigt-through.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/09/thx-to-tf.html",
+				
+				"content_html": "<p>thx to TF &amp; SF for the new #glow in the #dark #kicks (#black  in the #sunlight). Looking forward to a #run in these. #skora #zeroDrop #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "thx to TF & SF for the new #glow in the #dark #kicks (#black  in the #sunlight). Looking forward to a #run in these. #skora #zeroDrop #vscocam\n\n<img src=\"uploads/2023/f8bed2cddb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-09T11:55:47-05:00",
+				"url": "https://bobsica.com/2014/09/09/thx-to-tf.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/07/oh-life-not.html",
+				
+				"content_html": "<p>oh #life. not on the #trail I expected but I&rsquo;ll enjoy this one. #gratefulDay #hiking #BernerOberland #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "oh #life. not on the #trail I expected but I'll enjoy this one. #gratefulDay #hiking #BernerOberland #suisse #vscocam\n\n<img src=\"uploads/2023/50c10466e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-07T13:41:35-05:00",
+				"url": "https://bobsica.com/2014/09/07/oh-life-not.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/06/sisters-on-the.html",
+				
+				"content_html": "<p>#sisters on the #edge #CreuxDuVan #neuchatel #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#sisters on the #edge #CreuxDuVan #neuchatel #suisse #vscocam\n\n<img src=\"uploads/2023/a6fd63a503.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-06T11:28:33-05:00",
+				"url": "https://bobsica.com/2014/09/06/sisters-on-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/04/guess-its-about.html",
+				
+				"content_html": "<p>guess it&rsquo;s about the #journey? #miniQuad #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "guess it's about the #journey? #miniQuad #fribourg #vscocam\n\n<img src=\"uploads/2023/559ff41f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-04T12:41:34-05:00",
+				"url": "https://bobsica.com/2014/09/04/guess-its-about.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/02/cows-having-a.html",
+				
+				"content_html": "<p>#cows having a late #breakfast in #fribourg. A #calf was #born in this #field #today #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#cows having a late #breakfast in #fribourg. A #calf was #born in this #field #today #vscocam\n\n<img src=\"uploads/2023/a895d9ea3a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-02T13:32:43-05:00",
+				"url": "https://bobsica.com/2014/09/02/cows-having-a.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/09/01/xi-thou-will.html",
+				
+				"content_html": "<p>#XI. #Thou will #love the #hill #home, even the sections over 25% #bikeCommandments #fribourg #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#XI. #Thou will #love the #hill #home, even the sections over 25% #bikeCommandments #fribourg #suisse #vscocam\n\n<img src=\"uploads/2023/68326e148a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-09-01T12:42:17-05:00",
+				"url": "https://bobsica.com/2014/09/01/xi-thou-will.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/31/meanwhile-back-in.html",
+				
+				"content_html": "<p>â¦ meanwhile back in #Fribourg #Cityâ¦ #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "â¦ meanwhile back in #Fribourg #Cityâ¦ #suisse #vscocam\n\n<img src=\"uploads/2023/905e018665.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-31T13:08:55-05:00",
+				"url": "https://bobsica.com/2014/08/31/meanwhile-back-in.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/30/engadin-house-mural.html",
+				
+				"content_html": "<p>#engadin #house #mural with #skeleton #serpent and #chained #cat seen from the #church  in #Ardez #graubunden #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#engadin #house #mural with #skeleton #serpent and #chained #cat seen from the #church  in #Ardez #graubunden #vscocam\n\n<img src=\"uploads/2023/ed7f9f3a84.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-30T09:24:03-05:00",
+				"url": "https://bobsica.com/2014/08/30/engadin-house-mural.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/29/woman-climbs-towards.html",
+				
+				"content_html": "<p>#woman #climbs towards top of #piz #murtarÃ¶l  #parcNaziunalSvizzer #graubunden #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman #climbs towards top of #piz #murtarÃ¶l  #parcNaziunalSvizzer #graubunden #vscocam\n\n<img src=\"uploads/2023/1a33f26d84.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-29T11:48:18-05:00",
+				"url": "https://bobsica.com/2014/08/29/woman-climbs-towards.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/26/if-your-local.html",
+				
+				"content_html": "<p>if your local #wateringHole doesn&rsquo;t have #vintage #bikes, #jerseys and cases like the #CycloCafe time to move.  #mercxx #VanDenBremt #tdf #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "if your local #wateringHole doesn't have #vintage #bikes, #jerseys and cases like the #CycloCafe time to move.  #mercxx #VanDenBremt #tdf #fribourg #vscocam\n\n<img src=\"uploads/2023/9f15bc59f2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-26T10:34:43-05:00",
+				"url": "https://bobsica.com/2014/08/26/if-your-local.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/25/trying-to-line.html",
+				
+				"content_html": "<p>trying to line up my #ducks in #Thun #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "trying to line up my #ducks in #Thun #vscocam\n\n<img src=\"uploads/2023/9a7e29b859.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-25T12:16:50-05:00",
+				"url": "https://bobsica.com/2014/08/25/trying-to-line.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/24/standing-wave-surfing.html",
+				
+				"content_html": "<p>#standing #wave #surfing on the #aare #river #thun #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#standing #wave #surfing on the #aare #river #thun #vscocam\n\n<img src=\"uploads/2023/a9e81bde35.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-24T05:22:57-05:00",
+				"url": "https://bobsica.com/2014/08/24/standing-wave-surfing.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/23/inferno-triathlon-has.html",
+				
+				"content_html": "<p>#inferno #triathlon has begun. 5500m of #climbing left!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#inferno #triathlon has begun. 5500m of #climbing left!\n\n<img src=\"uploads/2023/afef037bf5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-23T00:35:56-05:00",
+				"url": "https://bobsica.com/2014/08/23/inferno-triathlon-has.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/22/im-in-thun.html",
+				
+				"content_html": "<p>&ldquo;I&rsquo;m in #Thun, right in Thun, I&rsquo;m in Thun and I want to Thun right in on youâ¦&rdquo; #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"I'm in #Thun, right in Thun, I'm in Thun and I want to Thun right in on youâ¦\" #vscocam\n\n<img src=\"uploads/2023/0f58c8600e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-22T10:12:21-05:00",
+				"url": "https://bobsica.com/2014/08/22/im-in-thun.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/21/woman-and-building.html",
+				
+				"content_html": "<p>#woman and #building #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman and #building #fribourg #vscocam\n\n<img src=\"uploads/2023/1dcbbcbf40.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-21T10:34:09-05:00",
+				"url": "https://bobsica.com/2014/08/21/woman-and-building.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/20/a-man-who.html",
+				
+				"content_html": "<p>a #man who did some #heavy #lifting. seems real enough to me.  #stChristopher #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "a #man who did some #heavy #lifting. seems real enough to me.  #stChristopher #vscocam\n\n<img src=\"uploads/2023/5630248776.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-20T11:58:57-05:00",
+				"url": "https://bobsica.com/2014/08/20/a-man-who.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/19/arrivederci-tocino-suisse.html",
+				
+				"content_html": "<p>#arrivederci #tocino #suisse</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#arrivederci #tocino #suisse\n\n<img src=\"uploads/2023/0c1fe68693.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-19T09:02:48-05:00",
+				"url": "https://bobsica.com/2014/08/19/arrivederci-tocino-suisse.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/18/contemplation-in-sansalvatore.html",
+				
+				"content_html": "<p>#contemplation in #SanSalvatore #tocino #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#contemplation in #SanSalvatore #tocino #suisse #vscocam\n\n<img src=\"uploads/2023/708b9e529d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-18T14:41:55-05:00",
+				"url": "https://bobsica.com/2014/08/18/contemplation-in-sansalvatore.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/17/bike-ride-in.html",
+				
+				"content_html": "<p>#bike #ride in the #leventina #valley. #scenery #trumped #headwind. #tocino #suisse  #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#bike #ride in the #leventina #valley. #scenery #trumped #headwind. #tocino #suisse  #vscocam\n\n<img src=\"uploads/2023/d3b587e3b5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-17T12:51:08-05:00",
+				"url": "https://bobsica.com/2014/08/17/bike-ride-in.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/16/woman-tree-boat.html",
+				
+				"content_html": "<p>#woman #tree #boat #locarno #ticino #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman #tree #boat #locarno #ticino #suisse #vscocam\n\n<img src=\"uploads/2023/14088f1384.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-16T07:02:58-05:00",
+				"url": "https://bobsica.com/2014/08/16/woman-tree-boat.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/15/on-the-bike.html",
+				
+				"content_html": "<p>on the #bike with pjs in #Ticino #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "on the #bike with pjs in #Ticino #suisse #vscocam\n\n<img src=\"uploads/2023/ea07a1193f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-15T09:31:31-05:00",
+				"url": "https://bobsica.com/2014/08/15/on-the-bike.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/14/lugano-sister-city.html",
+				
+				"content_html": "<p>#lugano #sister #city of #penticton #okanagan #tocino #suisse To right of picture is #whales #tail #sculpture in the #lake #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#lugano #sister #city of #penticton #okanagan #tocino #suisse To right of picture is #whales #tail #sculpture in the #lake #vscocam\n\n<img src=\"uploads/2023/dbd37c8739.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-14T12:35:37-05:00",
+				"url": "https://bobsica.com/2014/08/14/lugano-sister-city.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/13/onset-of-moonset.html",
+				
+				"content_html": "<p>#onset of #moonset #rigi #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#onset of #moonset #rigi #vscocam\n\n<img src=\"uploads/2023/eedc54be87.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-13T09:37:18-05:00",
+				"url": "https://bobsica.com/2014/08/13/onset-of-moonset.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/12/cows-and-woman.html",
+				
+				"content_html": "<p>#cows and #woman #rain #rigi #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#cows and #woman #rain #rigi #vscocam\n\n<img src=\"uploads/2023/be32020319.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-12T00:37:13-05:00",
+				"url": "https://bobsica.com/2014/08/12/cows-and-woman.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/11/someday-ill-have.html",
+				
+				"content_html": "<p>Someday I&rsquo;ll have a disappearing hairline\nSomeday I&rsquo;ll wear pajamas in the daytime\nAfternoons will be measured out\nMeasured out, measured with\nCoffee spoons and T.S. Eliot #CrashTestDummies #cafÃ©Creme #weggis #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Someday I'll have a disappearing hairline\nSomeday I'll wear pajamas in the daytime\nAfternoons will be measured out\nMeasured out, measured with\nCoffee spoons and T.S. Eliot #CrashTestDummies #cafÃ©Creme #weggis #vscocam\n\n<img src=\"uploads/2023/130eb6426d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-11T04:30:57-05:00",
+				"url": "https://bobsica.com/2014/08/11/someday-ill-have.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/10/swan-song-luzern.html",
+				
+				"content_html": "<p>#swan #song #luzern #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#swan #song #luzern #vscocam\n\n<img src=\"uploads/2023/9ea0008f5b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-10T05:14:26-05:00",
+				"url": "https://bobsica.com/2014/08/10/swan-song-luzern.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/09/reflecting-on-the.html",
+				
+				"content_html": "<p>#reflecting on the #reflection of the #Siffert #monument and that thin, #thin #line of #TheEdge #JeanTinguely #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#reflecting on the #reflection of the #Siffert #monument and that thin, #thin #line of #TheEdge #JeanTinguely #fribourg #vscocam\n\n<img src=\"uploads/2023/85038ab17b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-09T13:49:25-05:00",
+				"url": "https://bobsica.com/2014/08/09/reflecting-on-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/08/men-working-on.html",
+				
+				"content_html": "<p>#men #working on the #gondola in #Verbier #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#men #working on the #gondola in #Verbier #vscocam\n\n<img src=\"uploads/2023/236fb8f7e6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-08T05:25:19-05:00",
+				"url": "https://bobsica.com/2014/08/08/men-working-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/07/post-removed-cliche.html",
+				
+				"content_html": "<p>POST REMOVED: #CLICHE. Enjoying a #fondue, #beer,  and #Verbier #aprÃ¨s la #rando #suisse #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "POST REMOVED: #CLICHE. Enjoying a #fondue, #beer,  and #Verbier #aprÃ¨s la #rando #suisse #vscocam\n\n<img src=\"uploads/2023/a69d460ce9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-07T07:24:00-05:00",
+				"url": "https://bobsica.com/2014/08/07/post-removed-cliche.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/06/valais-girl-vscocam.html",
+				
+				"content_html": "<p>#valais #girl #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#valais #girl #vscocam\n\n<img src=\"uploads/2023/c9fbcbcd37.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-06T07:37:02-05:00",
+				"url": "https://bobsica.com/2014/08/06/valais-girl-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/05/chteau-de-chillon.html",
+				
+				"content_html": "<p>#chÃ¢teau de #chillon et #fleurs #montreux #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#chÃ¢teau de #chillon et #fleurs #montreux #vscocam\n\n<img src=\"uploads/2023/211b9e5e73.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-05T05:57:44-05:00",
+				"url": "https://bobsica.com/2014/08/05/chteau-de-chillon.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/04/science-alert-incredible.html",
+				
+				"content_html": "<p>#science #alert incredible #folding #structure on this #mountainside #geology #switzerland #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#science #alert incredible #folding #structure on this #mountainside #geology #switzerland #vscocam\n\n<img src=\"uploads/2023/09cea1b772.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-04T11:59:28-05:00",
+				"url": "https://bobsica.com/2014/08/04/science-alert-incredible.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/03/by-request-du.html",
+				
+				"content_html": "<p>by request du Monsieur Steveo: #woman crosses #bridge with #suisse #chocolate at easy reach  #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "by request du Monsieur Steveo: #woman crosses #bridge with #suisse #chocolate at easy reach  #vscocam\n\n<img src=\"uploads/2023/faab92885c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-03T08:03:02-05:00",
+				"url": "https://bobsica.com/2014/08/03/by-request-du.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/02/one-of-switzerlands.html",
+				
+				"content_html": "<p>one of #Switzerland&rsquo;s #beautiful #hidden #valleys #Gasteretal #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "one of #Switzerland's #beautiful #hidden #valleys #Gasteretal #vscocam\n\n<img src=\"uploads/2023/05732c8660.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-02T11:36:06-05:00",
+				"url": "https://bobsica.com/2014/08/02/one-of-switzerlands.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/08/01/joyeuse-fte-nationale.html",
+				
+				"content_html": "<p>#Joyeuse #fÃªte #nationale #Suisse! No better way to #celebrate than a #hike in the #Gasteretal #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Joyeuse #fÃªte #nationale #Suisse! No better way to #celebrate than a #hike in the #Gasteretal #vscocam\n\n<img src=\"uploads/2023/434afc96ea.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-08-01T10:08:04-05:00",
+				"url": "https://bobsica.com/2014/08/01/joyeuse-fte-nationale.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/31/its-so-lonely.html",
+				
+				"content_html": "<p>it&rsquo;s so #lonely being the only #sequoia in #fribourg #RainRainRain #CaliforniaDreaming #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "it's so #lonely being the only #sequoia in #fribourg #RainRainRain #CaliforniaDreaming #vscocam\n\n<img src=\"uploads/2023/76420ee20f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-31T16:44:56-05:00",
+				"url": "https://bobsica.com/2014/07/31/its-so-lonely.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/30/rain-rain-rain.html",
+				
+				"content_html": "<p>#rain rain rain i am all #wet on the #bus and want my #train back #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#rain rain rain i am all #wet on the #bus and want my #train back #payerne #vscocam\n\n<img src=\"uploads/2023/7a36ac13ad.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-30T12:20:00-05:00",
+				"url": "https://bobsica.com/2014/07/30/rain-rain-rain.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/29/in-a-new.html",
+				
+				"content_html": "<p>#2 in a new series: #AtomHeartMother #udder about it to #all #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#2 in a new series: #AtomHeartMother #udder about it to #all #fribourg #vscocam\n\n<img src=\"uploads/2023/f81f8deb6d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-29T06:18:13-05:00",
+				"url": "https://bobsica.com/2014/07/29/in-a-new.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/28/vaches-lectriques-fribourg.html",
+				
+				"content_html": "<p>#vaches #Ã©lectriques #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#vaches #Ã©lectriques #fribourg #vscocam\n\n<img src=\"uploads/2023/ac8d12b710.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-28T11:16:22-05:00",
+				"url": "https://bobsica.com/2014/07/28/vaches-lectriques-fribourg.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/27/end-of-a.html",
+				
+				"content_html": "<p>end of a long #hike in the region of Le #MolÃ¨son #tired #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "end of a long #hike in the region of Le #MolÃ¨son #tired #fribourg #vscocam\n\n<img src=\"uploads/2023/9da3d49c53.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-27T13:17:27-05:00",
+				"url": "https://bobsica.com/2014/07/27/end-of-a.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/26/hey-sunset-hello.html",
+				
+				"content_html": "<p>hey #Sunset #hello from a #cloud in #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "hey #Sunset #hello from a #cloud in #fribourg #vscocam\n\n<img src=\"uploads/2023/b649be40ee.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-26T14:45:05-05:00",
+				"url": "https://bobsica.com/2014/07/26/hey-sunset-hello.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/25/woman-and-devil.html",
+				
+				"content_html": "<p>#woman and #devil #dance in the #Garden of #Beets #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman and #devil #dance in the #Garden of #Beets #fribourg #vscocam\n\n<img src=\"uploads/2023/857f850de3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-25T03:19:45-05:00",
+				"url": "https://bobsica.com/2014/07/25/woman-and-devil.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/24/and-to-think.html",
+				
+				"content_html": "<p>and to think that I saw #it on #Mulberry #Street #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "and to think that I saw #it on #Mulberry #Street #fribourg #vscocam\n\n<img src=\"uploads/2023/efa8eba60e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-24T06:39:29-05:00",
+				"url": "https://bobsica.com/2014/07/24/and-to-think.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/23/man-waits-with.html",
+				
+				"content_html": "<p>#man waits with #me at the #gare to #early #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#man waits with #me at the #gare to #early #fribourg #vscocam\n\n<img src=\"uploads/2023/54e05f9300.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-23T07:13:23-05:00",
+				"url": "https://bobsica.com/2014/07/23/man-waits-with.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/22/so-lay-down.html",
+				
+				"content_html": "<p>&ldquo;So lay down your umbrellas\nStrip off your plastic macs.\nYou&rsquo;ve never felt the rain my friend,\nTill you&rsquo;ve felt it running down your back</p>\n<p>So the next time you see rain, it ain&rsquo;t bad\nDon&rsquo;t complain, it rains for you.\nThe next time you see l.a. rainclouds\nDon&rsquo;t complain it rains for you and me.&rdquo;\n#wings #mamunia #SirPaul #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"So lay down your umbrellas\nStrip off your plastic macs.\nYou've never felt the rain my friend,\nTill you've felt it running down your back\n\nSo the next time you see rain, it ain't bad\nDon't complain, it rains for you.\nThe next time you see l.a. rainclouds\nDon't complain it rains for you and me.\"\n#wings #mamunia #SirPaul #payerne #vscocam\n\n<img src=\"uploads/2023/9241515c68.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-22T04:13:57-05:00",
+				"url": "https://bobsica.com/2014/07/22/so-lay-down.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/21/a-woman-a.html",
+				
+				"content_html": "<p>a #woman a #gate a #forest #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "a #woman a #gate a #forest #vscocam\n\n<img src=\"uploads/2023/fc71ae144a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-21T09:42:25-05:00",
+				"url": "https://bobsica.com/2014/07/21/a-woman-a.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/20/alpen-glow-vscocam.html",
+				
+				"content_html": "<p>#alpen #glow #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#alpen #glow #vscocam\n\n<img src=\"uploads/2023/34887f1076.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-20T09:00:06-05:00",
+				"url": "https://bobsica.com/2014/07/20/alpen-glow-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/19/en-mrren-wanderweg.html",
+				
+				"content_html": "<p>en #MÃ¼rren #wanderweg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "en #MÃ¼rren #wanderweg #vscocam\n\n<img src=\"uploads/2023/cb7f01abc7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-19T06:33:22-05:00",
+				"url": "https://bobsica.com/2014/07/19/en-mrren-wanderweg.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/18/chill-in-lauterbrunnen.html",
+				
+				"content_html": "<p>#chill in #Lauterbrunnen. Wish y&rsquo;all were here for a #pop tonight and #hike tomorrow #bern #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#chill in #Lauterbrunnen. Wish y'all were here for a #pop tonight and #hike tomorrow #bern #vscocam\n\n<img src=\"uploads/2023/fb1bc8473d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-18T11:47:27-05:00",
+				"url": "https://bobsica.com/2014/07/18/chill-in-lauterbrunnen.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/18/by-request-bike.html",
+				
+				"content_html": "<p>by request, #bike #porn for Gail: the sun shines on the #RisingSun of #YukiyaArashiro &rsquo;s #sweet #Colnago. The characters on the fork read #Nippon (#Japan). Don&rsquo;t tell Team #Europcar someone accidentally knocked over the whole row of bikes leaning against the bus just after I snapped this! #tdf2014 #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "by request, #bike #porn for Gail: the sun shines on the #RisingSun of #YukiyaArashiro 's #sweet #Colnago. The characters on the fork read #Nippon (#Japan). Don't tell Team #Europcar someone accidentally knocked over the whole row of bikes leaning against the bus just after I snapped this! #tdf2014 #vscocam\n\n<img src=\"uploads/2023/ef49903971.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-18T04:30:12-05:00",
+				"url": "https://bobsica.com/2014/07/18/by-request-bike.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/17/la-woman-and.html",
+				
+				"content_html": "<p>la #woman and la #passion and the #comfort my #French pronunciation is way better than Tejay van Gardener&rsquo;s. but not my #vo2max #tdf2014 #Ã©tape11 #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "la #woman and la #passion and the #comfort my #French pronunciation is way better than Tejay van Gardener's. but not my #vo2max #tdf2014 #Ã©tape11 #vscocam\n\n<img src=\"uploads/2023/9ea20fc124.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-17T11:27:52-05:00",
+				"url": "https://bobsica.com/2014/07/17/la-woman-and.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/16/tdf-tape-aujourdihui.html",
+				
+				"content_html": "<p>#tdf2014 Ã©tape 11 aujourdi&rsquo;hui #awesome More tomorrow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#tdf2014 Ã©tape 11 aujourdi'hui #awesome More tomorrow.\n\n<img src=\"uploads/2023/53f7320d9a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-16T13:20:50-05:00",
+				"url": "https://bobsica.com/2014/07/16/tdf-tape-aujourdihui.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/15/the-little-engine.html",
+				
+				"content_html": "<p>the little #engine that could. #fribourg #train #commute #morning #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "the little #engine that could. #fribourg #train #commute #morning #vscocam\n\n<img src=\"uploads/2023/002116af4c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-15T09:27:14-05:00",
+				"url": "https://bobsica.com/2014/07/15/the-little-engine.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/14/the-woman-at.html",
+				
+				"content_html": "<p>the #woman at #lac #noir recoils in #horror at le #dragon de lac noir. He sits in the #tree tops and scares #hikers #young and #old. #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "the #woman at #lac #noir recoils in #horror at le #dragon de lac noir. He sits in the #tree tops and scares #hikers #young and #old. #vscocam\n\n<img src=\"uploads/2023/3a8ac92701.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-14T11:15:53-05:00",
+				"url": "https://bobsica.com/2014/07/14/the-woman-at.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/13/hertling-frres-serruriers.html",
+				
+				"content_html": "<p>#Hertling #FrÃ¨res #Serruriers posted this on their #wall (#literally) in #1830 #fribourg #58 #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Hertling #FrÃ¨res #Serruriers posted this on their #wall (#literally) in #1830 #fribourg #58 #vscocam\n\n<img src=\"uploads/2023/2a242c887a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-13T13:29:37-05:00",
+				"url": "https://bobsica.com/2014/07/13/hertling-frres-serruriers.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/12/woman-at-lac.html",
+				
+				"content_html": "<p>#woman at #lac #noir just before the #rain came #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman at #lac #noir just before the #rain came #vscocam\n\n<img src=\"uploads/2023/69a890fa3e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-12T09:52:57-05:00",
+				"url": "https://bobsica.com/2014/07/12/woman-at-lac.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/11/woman-with-stchristoffel.html",
+				
+				"content_html": "<p>#woman with #StChristoffel, #guardian of #travelers leaving #Bern #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman with #StChristoffel, #guardian of #travelers leaving #Bern #vscocam\n\n<img src=\"uploads/2023/5ebf71e45f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-11T10:24:19-05:00",
+				"url": "https://bobsica.com/2014/07/11/woman-with-stchristoffel.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/10/i-walk-to.html",
+				
+				"content_html": "<p>I #walk to #work #electric in to much #rain #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I #walk to #work #electric in to much #rain #payerne #vscocam\n\n<img src=\"uploads/2023/2080b3e441.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-10T05:52:09-05:00",
+				"url": "https://bobsica.com/2014/07/10/i-walk-to.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/09/escargot-fribourg-vscocam.html",
+				
+				"content_html": "<p>#escargot? #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#escargot? #fribourg #vscocam\n\n<img src=\"uploads/2023/42a68151ce.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-09T07:34:01-05:00",
+				"url": "https://bobsica.com/2014/07/09/escargot-fribourg-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/08/pole-sky-fribourg.html",
+				
+				"content_html": "<p>#pole &amp; #sky #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#pole & #sky #fribourg #vscocam\n\n<img src=\"uploads/2023/f809e84b6a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-08T07:15:10-05:00",
+				"url": "https://bobsica.com/2014/07/08/pole-sky-fribourg.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/07/staring-down-at.html",
+				
+				"content_html": "<p>#staring down at the #abbey in #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#staring down at the #abbey in #payerne #vscocam\n\n<img src=\"uploads/2023/898cfcf636.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-07T11:05:41-05:00",
+				"url": "https://bobsica.com/2014/07/07/staring-down-at.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/06/un-jeu-bateille.html",
+				
+				"content_html": "<p>un #jeu (#bateille?) de #Kubb commence. #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "un #jeu (#bateille?) de #Kubb commence. #fribourg #vscocam\n\n<img src=\"uploads/2023/e975db53a5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-06T06:09:03-05:00",
+				"url": "https://bobsica.com/2014/07/06/un-jeu-bateille.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/04/woman-prepares-for.html",
+				
+				"content_html": "<p>#woman prepares for tomorrow&rsquo;s #TDF2014 Prologue #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman prepares for tomorrow's #TDF2014 Prologue #fribourg #vscocam\n\n<img src=\"uploads/2023/f428228f37.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-04T06:30:40-05:00",
+				"url": "https://bobsica.com/2014/07/04/woman-prepares-for.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/03/full-moon-behind.html",
+				
+				"content_html": "<p>#full #moon behind #clouds #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#full #moon behind #clouds #fribourg #vscocam\n\n<img src=\"uploads/2023/a12d852b74.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-03T03:28:00-05:00",
+				"url": "https://bobsica.com/2014/07/03/full-moon-behind.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/02/meteorological-station-at.html",
+				
+				"content_html": "<p>#meteorological #station at #Payerne in the #darkness at the #edge of #Vaud #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#meteorological #station at #Payerne in the #darkness at the #edge of #Vaud #vscocam\n\n<img src=\"uploads/2023/dec31befd7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-02T05:41:49-05:00",
+				"url": "https://bobsica.com/2014/07/02/meteorological-station-at.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/07/01/joyeuse-fte-du.html",
+				
+				"content_html": "<p>Joyeuse FÃªte du #Canada! #woman #toils #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Joyeuse FÃªte du #Canada! #woman #toils #vscocam\n\n<img src=\"uploads/2023/2df791f417.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-07-01T01:12:21-05:00",
+				"url": "https://bobsica.com/2014/07/01/joyeuse-fte-du.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/30/morning-greets-the.html",
+				
+				"content_html": "<p>#morning greets the #fluxTower at the #Station #aÃ©rologique #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#morning greets the #fluxTower at the #Station #aÃ©rologique #payerne #vscocam\n\n<img src=\"uploads/2023/cafa6fc042.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-30T03:06:01-05:00",
+				"url": "https://bobsica.com/2014/06/30/morning-greets-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/29/women-in-jardin.html",
+				
+				"content_html": "<p>#women in Jardin du Peyrou #neuchÃ¢tel #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#women in Jardin du Peyrou #neuchÃ¢tel #vscocam\n\n<img src=\"uploads/2023/19ccbdcd99.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-29T05:42:41-05:00",
+				"url": "https://bobsica.com/2014/06/29/women-in-jardin.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/28/why-did-i.html",
+				
+				"content_html": "<p>why did I bother to take a picture of the #smokestack&rsquo;s #reflection on my #iPad&rsquo;s screen with my #iPhone like I was using the iPad camera? Because kids I&rsquo;ve been around since iPads didn&rsquo;t have cameras. #vscocam #fribourg</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "why did I bother to take a picture of the #smokestack's #reflection on my #iPad's screen with my #iPhone like I was using the iPad camera? Because kids I've been around since iPads didn't have cameras. #vscocam #fribourg\n\n<img src=\"uploads/2023/7f2d429723.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-28T08:23:10-05:00",
+				"url": "https://bobsica.com/2014/06/28/why-did-i.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/27/catching-some-rays.html",
+				
+				"content_html": "<p>catching some #rays #fribourg #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "catching some #rays #fribourg #vscocam\n\n<img src=\"uploads/2023/e29ef74e7f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-27T06:31:46-05:00",
+				"url": "https://bobsica.com/2014/06/27/catching-some-rays.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/26/woman-walks-west.html",
+				
+				"content_html": "<p>#woman #walks #west #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman #walks #west #vscocam\n\n<img src=\"uploads/2023/18650d3509.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-26T08:02:00-05:00",
+				"url": "https://bobsica.com/2014/06/26/woman-walks-west.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/25/the-prealpes-vscocam.html",
+				
+				"content_html": "<p>the #Prealpes #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "the #Prealpes #vscocam\n\n<img src=\"uploads/2023/c84ea8972f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-25T05:41:05-05:00",
+				"url": "https://bobsica.com/2014/06/25/the-prealpes-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/24/guys-and-gal.html",
+				
+				"content_html": "<p>#guys and #gal waitin' for a #train. #payerne #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#guys and #gal waitin' for a #train. #payerne #vscocam\n\n<img src=\"uploads/2023/2333b4d59d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-24T05:36:28-05:00",
+				"url": "https://bobsica.com/2014/06/24/guys-and-gal.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/23/connect-the-dots.html",
+				
+				"content_html": "<p>#connect the #dots #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#connect the #dots #vscocam\n\n<img src=\"uploads/2023/518f2fd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-23T17:08:43-05:00",
+				"url": "https://bobsica.com/2014/06/23/connect-the-dots.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/22/going-to-the.html",
+				
+				"content_html": "<p>Going to the #mountains in #Switzerland? #BÃCHLI #BERGSPORT has got you covered. #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Going to the #mountains in #Switzerland? #BÃCHLI #BERGSPORT has got you covered. #vscocam\n\n<img src=\"uploads/2023/b37534ef64.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-22T07:16:26-05:00",
+				"url": "https://bobsica.com/2014/06/22/going-to-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/21/chowin-down-on.html",
+				
+				"content_html": "<p>chowin' down on them young-ins! #OrgeFountain #Bern Wondering what our spawn would have thought of this statue when they were little? #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "chowin' down on them young-ins! #OrgeFountain #Bern Wondering what our spawn would have thought of this statue when they were little? #vscocam\n\n<img src=\"uploads/2023/93cad215aa.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-21T07:16:25-05:00",
+				"url": "https://bobsica.com/2014/06/21/chowin-down-on.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/20/nice-to-be.html",
+				
+				"content_html": "<p>Nice to be back at #MÃ©tÃ©oSuisse #++++ #positive #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice to be back at #MÃ©tÃ©oSuisse #++++ #positive #vscocam\n\n<img src=\"uploads/2023/e1d721c21e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-20T03:51:42-05:00",
+				"url": "https://bobsica.com/2014/06/20/nice-to-be.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/19/twisted-fountain-gives.html",
+				
+				"content_html": "<p>#twisted #fountain gives #cool #drinks in the #VieilleVille #patschoice #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#twisted #fountain gives #cool #drinks in the #VieilleVille #patschoice #vscocam\n\n<img src=\"uploads/2023/50b92af530.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-19T04:17:12-05:00",
+				"url": "https://bobsica.com/2014/06/19/twisted-fountain-gives.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/18/woman-and-curved.html",
+				
+				"content_html": "<p>#woman and curved ladder in a #garden. #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman and curved ladder in a #garden. #vscocam\n\n<img src=\"uploads/2023/e72d8fd24a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-18T06:16:05-05:00",
+				"url": "https://bobsica.com/2014/06/18/woman-and-curved.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/17/ghost-on-blvd.html",
+				
+				"content_html": "<p>#ghost on blvd de #PÃ©rolles #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#ghost on blvd de #PÃ©rolles #vscocam\n\n<img src=\"uploads/2023/9fc981b961.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-17T04:49:44-05:00",
+				"url": "https://bobsica.com/2014/06/17/ghost-on-blvd.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/15/jazzman-ah-blowing.html",
+				
+				"content_html": "<p>#jazzman AH blowing his #horn at La #Plage #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#jazzman AH blowing his #horn at La #Plage #vscocam\n\n<img src=\"uploads/2023/fb0065e981.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-15T07:05:30-05:00",
+				"url": "https://bobsica.com/2014/06/15/jazzman-ah-blowing.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/14/building-d-reflects.html",
+				
+				"content_html": "<p>#building D #reflects onto building B #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#building D #reflects onto building B #vscocam\n\n<img src=\"uploads/2023/68b971713f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-14T06:14:36-05:00",
+				"url": "https://bobsica.com/2014/06/14/building-d-reflects.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/13/marriage-chess-white.html",
+				
+				"content_html": "<p>#marriage #chess: white #queen to wherever the #hell she feels like. #reality #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#marriage #chess: white #queen to wherever the #hell she feels like. #reality #vscocam\n\n<img src=\"uploads/2023/a4da001058.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-13T04:22:23-05:00",
+				"url": "https://bobsica.com/2014/06/13/marriage-chess-white.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/12/moon-over-chocolaterie.html",
+				
+				"content_html": "<p>#moon over #chocolaterie #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#moon over #chocolaterie #vscocam\n\n<img src=\"uploads/2023/e356f7fc09.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-12T05:11:21-05:00",
+				"url": "https://bobsica.com/2014/06/12/moon-over-chocolaterie.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/11/woman-in-anguish.html",
+				
+				"content_html": "<p>#woman in #anguish #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman in #anguish #vscocam\n\n<img src=\"uploads/2023/51eb0dd79a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-11T07:12:09-05:00",
+				"url": "https://bobsica.com/2014/06/11/woman-in-anguish.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/09/in-the-oldtown.html",
+				
+				"content_html": "<p>in the #OldTown #today. More @ bobsica.vsco.co #vsco #PicFrame</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "in the #OldTown #today. More @ bobsica.vsco.co #vsco #PicFrame\n\n<img src=\"uploads/2023/77260bb6c5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-09T10:07:25-05:00",
+				"url": "https://bobsica.com/2014/06/09/in-the-oldtown.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/09/moonset-from-my.html",
+				
+				"content_html": "<p>#Moonset from my #loggia.. Competition between #artificial and #natural #light. #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Moonset from my #loggia.. Competition between #artificial and #natural #light. #vscocam\n\n<img src=\"uploads/2023/63099655a8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-09T07:35:10-05:00",
+				"url": "https://bobsica.com/2014/06/09/moonset-from-my.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/08/aujourdihui-morat-vscocam.html",
+				
+				"content_html": "<p>#aujourdi&rsquo;hui Ã  #Morat #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#aujourdi'hui Ã  #Morat #vscocam\n\n<img src=\"uploads/2023/14c8ac81bf.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-08T12:44:24-05:00",
+				"url": "https://bobsica.com/2014/06/08/aujourdihui-morat-vscocam.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/08/woman-in-the.html",
+				
+				"content_html": "<p>#woman in the #dark studies the #lake in the #light #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman in the #dark studies the #lake in the #light #vscocam\n\n<img src=\"uploads/2023/fbf5bfa8cc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-08T07:52:41-05:00",
+				"url": "https://bobsica.com/2014/06/08/woman-in-the.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/08/silhouette-en-femme.html",
+				
+				"content_html": "<p>#silhouette en #femme over #Lac #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#silhouette en #femme over #Lac #vscocam\n\n<img src=\"uploads/2023/c0d14979c7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-08T05:42:26-05:00",
+				"url": "https://bobsica.com/2014/06/08/silhouette-en-femme.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/07/trust-me-if.html",
+				
+				"content_html": "<p>Trust me. If you visit #Villars #Chocolate factory this #woman has this space permanently reserved. #BackOff #Caution #danger #achtung #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Trust me. If you visit #Villars #Chocolate factory this #woman has this space permanently reserved. #BackOff #Caution #danger #achtung #vscocam\n\n<img src=\"uploads/2023/6e9e3d9027.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-07T05:19:30-05:00",
+				"url": "https://bobsica.com/2014/06/07/trust-me-if.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/06/this-is-how.html",
+				
+				"content_html": "<p>This is how a #bee sees me. #ultraviolet #polarized #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is how a #bee sees me. #ultraviolet #polarized #vscocam\n\n<img src=\"uploads/2023/2e3f607acd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-06T07:23:07-05:00",
+				"url": "https://bobsica.com/2014/06/06/this-is-how.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/05/woman-in-parc.html",
+				
+				"content_html": "<p>#woman in Parc de PÃ©rolles - III #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#woman in Parc de PÃ©rolles - III #vscocam\n\n<img src=\"uploads/2023/e18d3c2730.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-05T05:42:16-05:00",
+				"url": "https://bobsica.com/2014/06/05/woman-in-parc.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/04/i-can-relate.html",
+				
+				"content_html": "<p>I can relate to this #fern in the #rocks on the #wall by the #loggia.  #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I can relate to this #fern in the #rocks on the #wall by the #loggia.  #vscocam\n\n<img src=\"uploads/2023/3a48413aee.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-04T06:33:34-05:00",
+				"url": "https://bobsica.com/2014/06/04/i-can-relate.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/03/brave-the-storm.html",
+				
+				"content_html": "<p>&ldquo;#brave the #storm to comeâ¦ here comes the #rain&rdquo; #GratefulDead #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"#brave the #storm to comeâ¦ here comes the #rain\" #GratefulDead #vscocam\n\n<img src=\"uploads/2023/a43e48425e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-03T04:25:48-05:00",
+				"url": "https://bobsica.com/2014/06/03/brave-the-storm.html"
+			},
+			{
+				"id": "http://bobiverse.micro.blog/2014/06/01/desert-greenhouse-at.html",
+				
+				"content_html": "<p>Desert  greenhouse at the Jardin Botanique. #vscocam</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Desert  greenhouse at the Jardin Botanique. #vscocam\n\n<img src=\"uploads/2023/ceb0828ece.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2014-06-01T10:53:43-05:00",
+				"url": "https://bobsica.com/2014/06/01/desert-greenhouse-at.html"
+			}
+	]
+}
